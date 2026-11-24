@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src=""C:\Users\drish\Downloads\Dikshant Sharma_ AI Engineer Tech Banner.png"" width="100%" alt="Dikshant Sharma - Aspiring AI Engineer"/>
+</p>
 <h1 align="center">Hi 👋, I'm Dikshant Sharma</h1>
 <h3 align="center">BCA Student | Aspiring AI Engineer | Python & Machine Learning Enthusiast</h3>
 
